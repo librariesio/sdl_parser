@@ -1,5 +1,7 @@
 # [SdlParser](https://libraries.io/github/librariesio/sdl_parser)
 
+:warning: This repository has been replaced with [Bibliothecary](https://github.com/librariesio/bibliothecary) and will not be updated anymore :warning:
+
 Sinatra app for extracting dependencies from `dub.sdl` files for [Libraries.io](https://libraries.io) over http.
 
 It uses [sdl4r](https://libraries.io/rubygems/sdl4r) to do the heavy lifting of parsing the files.
